@@ -1,0 +1,8 @@
+{
+    "name": "Cloudstream providers repository",
+    "description": "YouTube Repository",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://raw.githubusercontent.com/Solominou/youtube/builds/plugins.json"
+    ]
+}
